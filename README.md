@@ -7,7 +7,7 @@ Para esse primeiro projeto, você vai criar uma página pessoal que seja capaz d
 
 ## Sobre o projeto:
 - é interessante que seja responsivo
-- Adicione quantos botões achar necessário, pra mais ou pra menos.
+- Adicione quantos botões/redes sociais achar necessário, pra mais ou pra menos.
 - Fique a vontade para personalizar ou adicionar mais sessões, mas lembre-se de que o objetivo dessa página é ser o seu "cartão de visitas"
 - Dúvidas surgirão, por favor compartilhe-as em nosso grupo no WhatsApp
 
